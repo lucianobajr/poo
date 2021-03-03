@@ -1,0 +1,6 @@
+Luciano masculino 85 21 1.75
+Guilherme masculino 70 20 1.80
+Pamella feminino 90 18 1.66
+Laura feminino 80 22 1.50
+Gabriel masculino 65 21 1.72
+Benedito masculino 104 31 1.85
