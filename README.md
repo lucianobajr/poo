@@ -11,4 +11,6 @@ Repositório da disciplina de CCF 313 (Programação Orientada a Objetos)
     |   ├──doc            # documentação da atividade     
     |
     ├── AP02           # Atividade Prática 02   
+    |   ├──src            # códigos fonte 
+    |   ├──doc            # documentação da atividade     
     |  
